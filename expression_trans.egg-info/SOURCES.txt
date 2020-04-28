@@ -1,0 +1,8 @@
+LICENSE
+MANIFEST.in
+README.rst
+setup.py
+expression_trans.egg-info/PKG-INFO
+expression_trans.egg-info/SOURCES.txt
+expression_trans.egg-info/dependency_links.txt
+expression_trans.egg-info/top_level.txt
