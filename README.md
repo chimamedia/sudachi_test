@@ -11,7 +11,7 @@
 # Install
 
 ```
-$ git clone git@github.com:anmonite/expression_trans.git
+$ git clone https://github.com/chimamedia/sudachi_test.git
 $ cd expression_trans
 ```
 
